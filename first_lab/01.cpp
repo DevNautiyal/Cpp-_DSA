@@ -15,7 +15,6 @@ int main() {
         else
             oddSum += arr[i];
     }
-
     cout << "SumEven = " << evenSum << endl;
     cout << "SumOdd = " << oddSum << endl;
 
